@@ -74,7 +74,7 @@ RecyclerView.LayoutManager layoutManager ;
                     like_image.setImageResource(R.drawable.like);
                     like_text.setTextColor(getResources().getColor(R.color.backclick_color));
 
-
+//kjhgfee4r56t7gyhuijok
                     click = true;
 
                 }
